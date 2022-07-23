@@ -1,0 +1,8 @@
+- pmap <PID>  (show the memory map of a process)
+- pwdx <PID>  (................................................................)
+- pwdx $$  (the current running process)
+- pmap $(pgrep sshd)
+- cat /proc/uptime (up   idle)
+- top -b -n1       (without going into the shitty top menu .. only text)
+- 
+- 
