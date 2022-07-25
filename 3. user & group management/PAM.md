@@ -1,7 +1,7 @@
 # PAM
 Linux Pluggable Authentication Modules (PAM) is **a suite of libraries that allows a Linux system administrator to configure methods to authenticate users**
 
-![[Pasted image 20220725124134.png]]
+![PAM](.screenshots/pam.jpg)
 
 
 ## Create Home Directories during login
