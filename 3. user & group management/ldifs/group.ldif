@@ -1,0 +1,4 @@
+dn: cn=ldapusers,ou=group,dc=example,dc=com
+objectClass: posixGroup
+cn: ldapusers
+gidNumber: 4000

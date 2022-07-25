@@ -1,0 +1,18 @@
+dn: uid=fred,ou=People,dc=example,dc=com
+uid: fred
+cn: fred
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+userPassword: {crypt}$6$l/vbhZNzl57WmCE3$2EBgYSlCT5LVEGNK.Jk3mpdiNal7eStJGyA2q.KJikbie/dFH8L2j5btRCEgf7ZfXiJ4k6LqS9.gdtcMk3Ax0/
+shadowLastChange: 16847
+shadowMin: 0
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 4000
+gidNumber: 4000
+homeDirectory: /home/fred
+gecos: fred bloggs
+

@@ -1,0 +1,14 @@
+dn: dc=example,dc=com
+dc: example
+objectClass: top
+objectClass: domain
+
+dn: ou=people,dc=example,dc=com
+ou: people
+objectClass: top
+objectClass: organizationalUnit
+
+dn: ou=group,dc=example,dc=com
+ou: group
+objectClass: top
+objectClass: organizationalUnit
