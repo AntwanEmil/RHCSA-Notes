@@ -9,6 +9,6 @@ NB: This material is based on Pluralsight certification prep plus some simple ex
 - [1  Essentials](/1.essentials/)
 - [2  CentOS Enterprise Linux 7 Operation Essentials](https://github.com/AntwanEmil/RHCSA-study_materials/tree/master/2.CentOS%20Enterprise%20Linux%207%20Operation%20Essentials)
 - [3  User & Group Management](https://github.com/AntwanEmil/RHCSA-study_materials/tree/master/3.%20user%20%26%20group%20management)
-- [4  Storage Management](https://github.com/AntwanEmil/RHCS-study_materials/tree/master/)
-- [5  Network Management](https://github.com/AntwanEmil/RHCSA-study_materials/tree/master/)
+- [4  Storage Management](https://github.com/AntwanEmil/RHCSA-Notes/tree/master/4.Storage%20Management)
+- [5  Network Management](https://github.com/AntwanEmil/RHCSA-Notes/tree/master/5.Network%20Management)
 

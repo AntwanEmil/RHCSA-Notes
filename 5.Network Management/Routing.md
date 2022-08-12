@@ -1,4 +1,3 @@
-
 ## Display Routes
 `ip route show` to show the route
 `route` display the route table
