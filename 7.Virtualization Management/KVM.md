@@ -1,0 +1,1 @@
+`yum insall qemu-kvm virt-install virt-manager`
